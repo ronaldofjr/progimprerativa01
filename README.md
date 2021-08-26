@@ -1,10 +1,15 @@
 # Avaliação Programação Imperativa 01
 
-##PARTICIPANTES
+PARTICIPANTES
 
-###Agenor Junior
-###Ector Cunha
-###Gabriela Schneider
-###Matheus Braga Dias
-###Renan de Andrade
-###Ronaldo Fonseca
+Agenor Junior
+
+Ector Cunha
+
+Gabriela Schneider
+
+Matheus Braga Dias
+
+Renan de Andrade
+
+Ronaldo Fonseca
